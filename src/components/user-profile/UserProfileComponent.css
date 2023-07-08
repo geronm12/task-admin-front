@@ -1,0 +1,19 @@
+img {
+  width: 50%;
+  height: 50%;
+}
+
+.drop {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.drop img {
+  border-radius: 10px;
+}
+
+.drop:hover {
+  cursor: pointer;
+}

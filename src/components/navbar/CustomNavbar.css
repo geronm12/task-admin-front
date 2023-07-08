@@ -1,0 +1,10 @@
+.nav-dd-item {
+  font-weight: normal;
+  color: black;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.nav-dd-item:hover {
+  color: #f5cc16;
+}

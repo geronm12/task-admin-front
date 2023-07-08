@@ -1,0 +1,17 @@
+.left-form {
+    width: 90%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.button-control {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-control button:first-of-type {
+    margin-right: 1rem;
+}
